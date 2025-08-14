@@ -1,0 +1,398 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: SpotifyMixUI, CircularSp, Helvetica, Arial, sans-serif;
+}
+
+nav{
+    /* border: 2px solid; */
+    background-color: black;
+    height: 80px;
+    color: white;
+    display: flex;
+    justify-content:space-around;
+
+    align-items: center;
+    /* color: white; */
+    
+
+}
+nav svg{
+    height: 2.2em;
+
+    fill: white;
+}
+
+
+
+#d1{
+    width: 15%;
+    
+    
+    
+}
+
+#d2{
+    width: 30%;
+    
+}
+
+#d2 ol{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    font-size: 16px;
+    font-weight: 600;
+
+    
+    
+
+}
+
+
+main{
+    /* border: 2px solid red; */
+    display: flex;
+    height: 600px;
+
+    background: url(https://www.scdn.co/i/free/bubbles-dktp.svg) center -138px / 100% 1068px no-repeat, linear-gradient(-45deg, rgb(108, 14, 224) -5%, rgb(240, 55, 166));  
+}
+
+#d3{
+    position: relative;
+
+    height: 710px;
+    width: 443px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: end;
+}
+
+main svg{
+    height: 38em;
+    left: 20%;
+}
+
+main img{
+     position: absolute;
+     height: 438px;
+     width:287px;
+     top: 160px;
+     right: 1%;
+}
+
+#d4{
+    /* border: 2px solid ; */
+    height: 600px;
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 35px;
+    flex-direction: column;
+}
+
+#d4 h1{
+    color: white;
+    font-size: 65px;
+    letter-spacing: -4px;
+    text-align: end;
+}
+
+#d4 button{
+    height: 50px;
+    width: 200px;
+    border-radius: 25px;
+    border: none;
+    margin-right:45% ;
+    font-weight: 700;
+    font-size: 14px;
+}
+#sec1{
+    
+    text-align: center;
+    /* border: 2px solid ; */
+    height: 600px;
+    font-size: 26px;
+    /* gap: 30px; */
+    
+    
+}
+
+#b1{
+      text-align: center;
+    font-size: 50px;
+    font-weight: 900;
+}
+
+#sec1 aside{
+    /* border: 2px solid; */
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+#sec1 div{
+    /* border: 2px solid red; */
+    height: 350px;
+    width: 250px;
+}
+#sec1 h3{
+    font-size: 20px;
+    /* border: 2px solid; */
+    height: 35px;
+}
+#sec1 p{
+    font-size: 17px;
+    line-height: 30px;
+}
+#sec1 img{
+    height: 140px;
+    width: 140px;
+}
+
+#sec2{
+    /* border: 2px solid red; */
+    height: 500px;
+    background: linear-gradient(rgb(176, 35, 194) 15%, rgb(96, 11, 231));
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#sec2 h1{
+    text-align: center;
+    color: white;
+    font-size: 45px;
+    font-weight: 600;
+}
+
+
+
+
+#sec3{
+    /* border: 2px solid deeppink; */
+    height: 540px;
+    
+}
+
+#sec3 h1{
+    text-align: center;
+    font-size: 39px;
+    font-weight: 900;
+
+
+}
+#sec3 aside{
+
+    /* border: 2px solid red; */
+    height: 480px;
+
+    display: flex;
+    justify-content: center;
+   
+}
+
+#sec3 div{
+    /* border: 2px solid; */
+    width: 90%;
+    height: inherit;
+    
+}
+
+#sec3 summary{
+
+    /* border: 2px solid; */
+    height: 85px;
+    padding: 25px;
+    list-style: none;
+    font-size: 18px;
+    font-weight: 900;
+}
+
+#sec3  summary:hover{
+    background-color: whitesmoke;
+    text-decoration: underline;
+
+}
+
+#sec3 p{
+    margin-left: 3%;
+    width: 65%;
+}
+
+#sec3 #s1{
+    color: darkgreen;
+    font-weight: 900;
+}
+
+ #sec4{
+
+    /* border: 2px solid red; */
+    height: 460px;
+    /* background-image: url(./assets/l); */
+    /* justify-content: center; */
+    background: url(https://www.scdn.co/i/free/bubbles-dktp.svg) center -138px / 100% 1068px no-repeat, linear-gradient(-45deg, rgb(108, 14, 224) -5%, rgb(240, 55, 166));
+
+}
+
+
+
+
+
+#sec4 h1{
+        text-align: center;
+        font-weight: 1000;
+        font-size: 80px;
+        color: whitesmoke;
+        
+
+}
+
+#sec4 button{
+    
+    border: 0px solid whitesmoke;
+    margin-left: 40%;
+    
+     height: 45px;
+     width: 15.4%;
+     border-radius: 20px;
+     background-color: whitesmoke;
+    /* color: black; */
+    font-size: 15px;
+    font-weight: 700;
+}
+
+#sec5{
+    /* border: 2px solid ; */
+    
+
+    height: 590px;
+    background-color: black;
+
+    
+      
+
+
+}
+
+#sec5 svg{
+
+    margin-left: 4%;
+    height: 2.5em;
+    fill: white;
+
+}
+
+#sec5 div{
+    /* border: 2px solid whitesmoke; */
+    margin-left: 4%;
+    
+
+    height: 400px;
+    width: 600px;
+
+    display: inline-flex;
+    
+    column-gap: 40px;
+    
+    
+
+}
+
+#sec5 ul{
+    color: gray;
+    font-weight: 100;
+    font-size: 15px;
+    
+}
+#sec5 ul>li{
+    list-style: none;
+    color: whitesmoke;
+    font-weight: 500;
+    font-size: 18px;
+    
+    
+}
+#sec5 li:hover{
+
+    color: lightgreen;
+}
+
+#sec5 img{
+/* border: 2px solid; */
+
+    width: 40px;
+    height: 50px;
+    margin-left: 8%;
+    
+     
+
+}
+
+
+footer{
+    /* border: 2px solid red; */
+    /* height: 50px; */
+    background-color: black;
+    
+    
+
+    
+}
+
+ footer>a{
+    font-style: none;
+    margin-left: 3%;
+    color: gray;
+    font-size: 13px;
+    font-weight: 500;
+    
+}
+
+footer>a:hover{
+    color: darkgreen;
+}
+
+footer span{
+    margin-left: 14%;
+    color: gray;
+}
+
+
+#as6{
+    /* border: 2px solid white; */
+    margin-left: 80%;
+    margin-top: -32%;
+
+    font-size: 40px;
+     
+}
+
+aside>i:hover{
+    color: darkgreen;
+
+}
+
+
+
+/* #as6:hover{
+    color: darkgreen;
+} */
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+

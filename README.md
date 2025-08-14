@@ -8,6 +8,7 @@ Built with HTML, CSS, and JavaScript.
 
 ## 📸 Screenshots
 ![Screenshot](assets/spot.png)
+![Screenshot](assets/main.png)
 
 ## 🛠️ Technologies Used
 - HTML5

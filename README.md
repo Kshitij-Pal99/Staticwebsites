@@ -21,5 +21,5 @@ Built with HTML, CSS, and JavaScript.
 
 ## 📬 Contact
 If you'd like to connect or discuss the project:
-- Email: kshitijpal18gmail.com
+- Email:kshitijpal@18gmail.com
 - LinkedIn:https://www.linkedin.com/in/kshitij-pal-9475aa265
